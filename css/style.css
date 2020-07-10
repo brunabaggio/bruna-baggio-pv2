@@ -1,0 +1,22 @@
+ 
+.tabelaEditavel {
+    width:100%
+}
+ 
+.tabelaEditavel td {
+    border:solid 1px;
+}
+ 
+.tabelaEditavel th {
+    width:10%;
+}
+
+.tabelaEditavel .celulaEmEdicao {
+    padding: 0;
+}
+ 
+.tabelaEditavel .celulaEmEdicao input[type=text]{
+    width:99%;
+    border:0;
+    background-color:rgb(255,253,210);  
+}
